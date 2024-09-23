@@ -1,0 +1,6 @@
+@erentitan_HostAddress = http://localhost:5082
+
+GET {{erentitan_HostAddress}}/getStudents
+Accept: application/json
+
+###
